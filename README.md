@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**EliasRothfuss/EliasRothfuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+---
+![EliasRothfuss's Stats](https://github-readme-stats.vercel.app/api?username=EliasRothfuss&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![EliasRothfuss's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasRothfuss&theme=merko&show_icons=true&hide_border=true&layout=compact)
+---
+
