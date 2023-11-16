@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 
-- 🔭 I’m currently working on **a sozial quiz**
+- 🔭 I’m currently working on **a social quiz**
 
 - 🌱 I’m currently learning **JS, C/C++, ...**
 
