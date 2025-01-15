@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A DH Student from Germany, who has fun building stuff</h3>
 
-- 🔭 I’m currently working on
-  - my own local Kahoot
-  - a LED matrix display
-  - a proof of concept line detection algorithm 
 
-- 🌱 I’m currently learning
-  - Web development and design
-  - Embedded (C / C++)
 ---
 
 ### 💻 Tech Stack:
